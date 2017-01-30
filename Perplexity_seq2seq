@@ -1,0 +1,43 @@
+Final Perplexity: 36.50
+
+Training seq2seq logs:
+global step 8000 learning rate 0.4090 step-time 1.01 perplexity 36.62
+  eval: bucket 0 perplexity 21.62
+  eval: bucket 1 perplexity 23.41
+  eval: bucket 2 perplexity 28.82
+  eval: bucket 3 perplexity 42.83
+global step 8050 learning rate 0.4090 step-time 1.04 perplexity 37.13
+  eval: bucket 0 perplexity 19.19
+  eval: bucket 1 perplexity 22.03
+  eval: bucket 2 perplexity 30.29
+  eval: bucket 3 perplexity 40.01
+global step 8100 learning rate 0.4090 step-time 0.99 perplexity 35.91
+  eval: bucket 0 perplexity 19.95
+  eval: bucket 1 perplexity 24.09
+  eval: bucket 2 perplexity 36.54
+  eval: bucket 3 perplexity 45.08
+global step 8150 learning rate 0.4090 step-time 0.88 perplexity 34.22
+  eval: bucket 0 perplexity 16.49
+  eval: bucket 1 perplexity 26.28
+  eval: bucket 2 perplexity 28.40
+  eval: bucket 3 perplexity 36.73
+global step 8200 learning rate 0.4090 step-time 0.98 perplexity 35.49
+  eval: bucket 0 perplexity 18.48
+  eval: bucket 1 perplexity 19.83
+  eval: bucket 2 perplexity 29.55
+  eval: bucket 3 perplexity 39.94
+global step 8250 learning rate 0.4090 step-time 1.00 perplexity 36.47
+  eval: bucket 0 perplexity 19.07
+  eval: bucket 1 perplexity 21.55
+  eval: bucket 2 perplexity 36.44
+  eval: bucket 3 perplexity 41.46
+global step 8300 learning rate 0.4049 step-time 1.01 perplexity 35.02
+  eval: bucket 0 perplexity 23.69
+  eval: bucket 1 perplexity 20.03
+  eval: bucket 2 perplexity 32.43
+  eval: bucket 3 perplexity 39.92
+global step 8350 learning rate 0.4049 step-time 1.03 perplexity 36.50
+  eval: bucket 0 perplexity 18.65
+  eval: bucket 1 perplexity 23.14
+  eval: bucket 2 perplexity 32.64
+  eval: bucket 3 perplexity 37.55
